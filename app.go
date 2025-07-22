@@ -15,6 +15,7 @@ func main() {
 }
 
 func getEvents(context *gin.Context) {
+	// context.JSON(200, "Hello")
 	context.JSON(http.StatusOK, gin.H{
 		"message": "Hello",
 	})
