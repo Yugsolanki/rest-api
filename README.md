@@ -38,8 +38,8 @@ A simple RESTful API for event management, built with Go, Gin, and SQLite. This 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/rest-api-event-management.git
-   cd rest-api-event-management
+   git clone https://github.com/Yugsolanki/go-rest-api.git
+   cd go-rest-api
    ```
 
 2. **Install dependencies**
